@@ -1,3 +1,6 @@
+[My writeup is here!](https://github.com/romth777/RoboND-Rover-Project/blob/master/writeup.md)
+
+
 [//]: # (Image References)
 [image_0]: ./misc/rover_image.jpg
 [![Udacity - Robotics NanoDegree Program](https://s3-us-west-1.amazonaws.com/udacity-robotics/Extra+Images/RoboND_flag.png)](https://www.udacity.com/robotics)
